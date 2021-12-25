@@ -1,7 +1,8 @@
 # LogoDetection
 Logo Detection using Tensorflow (2) Object Detection API as part of the Final Project for Bocconi's Deep Learning Course. 
 
-All the steps presented here can be found in the collab_tutorial section.
+All the steps presented here can be found in the [collab_tutorial section](colab_tutorials/).
+The [pipelines](Models_pipeline/) for training were also upload.
 
 # Intro
 In social media analysis, sometimes images/videos can inform us more than the pure text. For example, if you want to do a search on users of a certain brand, it is perhaps more effective to look for images/videos, as it is unlikely that anyone will explicitly write the company in their post. Therefore, combined with textual analyses, this methodology can improve the result of such analyses.
