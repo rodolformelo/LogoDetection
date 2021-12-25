@@ -8,9 +8,9 @@ The [pipelines](Models_pipeline/) for training were also upload.
 In social media analysis, sometimes images/videos can inform us more than the pure text. For example, if you want to do a search on users of a certain brand, it is perhaps more effective to look for images/videos, as it is unlikely that anyone will explicitly write the company in their post. Therefore, combined with textual analyses, this methodology can improve the result of such analyses.
 
 # Results
-| mAP 0.5  | mAP 0.5:0.95 |
-| ------------- | ------------- |
-| 0.963  | 0.761  | 
+![Apple](image/apple.PNG) 
+
+Coco metrics, mAP 0.5 = 0.963 and mAP 0.5:0.95 = 0.761.
 
 # Workflow
 
