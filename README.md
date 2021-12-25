@@ -32,7 +32,7 @@ python -m pip install --use-feature=2020-resolver .
 The dataset used for training was scrapped from public publications on instagran between 2015 and 2017 in some US cities. The logos used for training are: Nike, Adidas, Under Armour, Puma, The North Face, Starbucks, Apple Inc., Mercedes-Benz, NFL, Coca-Cola, Chanel, Toyota, Pepsi, Hard Rock Cafè.
 
 ## Generate TFRecords
-TFRecords were created using the [official documentation](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/using_your_own_dataset.md)
+TFRecords were created using the [official documentation](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/using_your_own_dataset.md).Some parts of the code in colab was inspired in the [racoon dataset](https://github.com/datitran/raccoon_dataset).
 
 ## Pre-trained COCO models
 Pre-trained coco models can be found [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md). For this project, it was used the CenterNet HourGlass104 512x512.
