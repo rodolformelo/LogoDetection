@@ -14,7 +14,7 @@ Coco metrics, mAP 0.5 = 0.963 and mAP 0.5:0.95 = 0.761.
 
 # Workflow
 
-## Object Detection API Install
+## Object Detection API
 Instaling Objet Detection API using Phyton in a Linux Machine. More information can be found [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2.md).
 
 ```
